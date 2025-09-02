@@ -1,4 +1,9 @@
-# Gara-
-This is  a train booking app.
-from Aditya Degree College
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Web  page</title
+  </head>
+  <body>
+   <h1> Hello <h1>
+  </body>
+</html>
